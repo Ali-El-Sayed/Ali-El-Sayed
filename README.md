@@ -1,5 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&size=26&pause=1000&color=2391F7&center=true&random=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Ali+El-Sayed)](https://git.io/typing-svg)
-<h3 align="center">A passionate Mobile developer from Egypt</h3>
+<div align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto&size=26&pause=1000&color=2391F7&center=true&random=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Ali+El-Sayed;Professional+Android+Developer" alt="Typing SVG" /></a>
+</div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ali-el-sayed&label=Profile%20views&color=0e75b6&style=flat" alt="ali-el-sayed" /> </p>
 
